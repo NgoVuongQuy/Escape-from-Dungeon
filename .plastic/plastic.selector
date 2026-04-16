@@ -1,0 +1,4 @@
+repository "Escape from dungeon/Escape from dungeon@18968189654782@cloud"
+  path "/"
+    br "/main"
+    co "/main"
